@@ -6,4 +6,5 @@ This game is usually played in a group setting, where 1 game master selects a se
 
 For the Python game setup, I utilise a random number generator to generate a secret number (removing the need for a game master), and players can all take turn to input their guesses.
 
-Note: All codes belong to drakelamyh. Please request for permission before cloning or forking a copy.
+
+Note: All codes belong to drakelamyh. Kindly request for permission before cloning or forking a copy.
